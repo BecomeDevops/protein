@@ -1,0 +1,25 @@
+why git - for managing code
+        - tracking history
+        - maintaing and managing source code (java, .net application)
+        - any text file can also be tracked
+
+vendors - code hosting platforms (github, gitlab, bitbucket)
+
+
+repository - The code of of our project is stored in the repository
+
+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
+
+working area ---- it's your project folder
+
+staging/index ----  git add filename ( you need to satge the changes befor comitting those changes) 
+
+
+local repo  ----- git commit -m "created file"
+
+
+Remote Repo ----- git push
+              username: becomedevops
+              password: token
+
+
